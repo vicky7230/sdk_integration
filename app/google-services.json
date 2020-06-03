@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503638375807",
+    "firebase_url": "https://moengage-sdk.firebaseio.com",
+    "project_id": "moengage-sdk",
+    "storage_bucket": "moengage-sdk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503638375807:android:25123c6a66230b8eee2e4a",
+        "android_client_info": {
+          "package_name": "com.vicky7230.sdkintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503638375807-jote8e96jepu2676pf3ekoqng5njsfcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDuinCFZ_XnEL2SEELHnWD9lqVkjCP1UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503638375807-jote8e96jepu2676pf3ekoqng5njsfcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
